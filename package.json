@@ -1,0 +1,25 @@
+{
+  "name": "sheet-pdf-service",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "googleapis": "^127.0.0"
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaylin01/sheet-pdf-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaylin01/sheet-pdf-service/issues"
+  },
+  "homepage": "https://github.com/kaylin01/sheet-pdf-service#readme",
+  "description": ""
+}
