@@ -17,7 +17,7 @@ steps:
       - --allow-unauthenticated
 
 substitutions:
-  _IMAGE: 'us-central1-docker.pkg.dev/$PROJECT_ID/sheet-pdf-reg/pdf:${SHORT_SHA}'
+  _IMAGE: 'us-central1-docker.pkg.dev/positive-oven-460006-r1/sheet-pdf-reg/pdf:${SHORT_SHA}'
   _REGION: 'us-central1'
 
 images:
