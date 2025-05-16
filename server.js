@@ -30,4 +30,4 @@ app.post('/exportPdf', async (req, res) => {
 
 const port = process.env.PORT || 8080;
 app.listen(port, () => console.log(`PDF service listening on ${port}`));
-console.log("Cloud Build Trigger Test - " + new Date());
+
